@@ -30,6 +30,3 @@ To reproduce the results, you can run the notebook directly via Google Colab:
 2. Ensure you have mounted the `data/sepsis_gene_expression_LABELED.csv` correctly.
 3. Run all cells sequentially.
 
-## 👥 Contributors
-* **[Your Name]** - *Machine Learning Pipeline & Evaluation*
-* **[Your Friend's Name]** - *Data Gathering & Preprocessing*
