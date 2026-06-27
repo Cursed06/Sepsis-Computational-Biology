@@ -26,14 +26,14 @@ Visualizing the variance and separability of Sepsis vs. Healthy Control samples 
 
 ### 2. Biomarker Selection (Intersection)
 We isolated the most critical genes responsible for differentiating sepsis from healthy controls by finding the intersection of three robust ML algorithms.
-![Venn Diagram](figures/Figure_2_Venn_Diagram.png)
+![Venn Diagram](figures/Figure_2_Venn_Diagram.jpeg)
 
 The following bar chart illustrates the top sepsis-associated biomarkers ranked by their feature importance scores:
 ![Top Biomarkers](figures/Figure_4_Top_Biomarkers_Intersection.png)
 
 ### 3. Model Performance
 The optimized Support Vector Machine (SVM) and Random Forest achieved superior diagnostic performance after automated threshold tuning.
-![Model Comparison](figures/Figure_3_Model_Comparison.png)
+![Model Comparison](figures/Figure_3_Model_Comparison.jpeg)
 
 ## 🚀 How to Use
 To reproduce the results, you can run the notebook directly via Google Colab:
